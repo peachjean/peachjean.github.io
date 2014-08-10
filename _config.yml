@@ -6,17 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            
+tagline:          A log of things that I figured out once.
+url:              http://peachjean.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Jared Bunting
+  url:            https://github.com/peachjean
+  email:          jared.bunting@peachjean.com
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
